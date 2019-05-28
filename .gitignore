@@ -1,0 +1,10 @@
+  1 *~
+  2 ._*
+  3 *.lock
+  4 *.DS_Store
+  5 *.swp
+  6 *.out
+  7 *.py[cod]
+  8 *.pid
+  9 *.ipynb_checkpoints
+ 10 output*
